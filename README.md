@@ -1,4 +1,4 @@
-# My Python Project: Simple CLI Calculator
+# My Python Project: Simple command-line Calculator
 
 I have built this calculator using Python to understand how functions and loops work together. This is a basic command-line tool where you can do math operations easily.
 
